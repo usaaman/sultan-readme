@@ -18,7 +18,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🎓 **BS Software Engineering** @ Capital University of Science and Technology (CUST)
 - 💼 **Full-Stack Web & App Developer**
