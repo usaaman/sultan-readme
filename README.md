@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20&text=Muhammad%20Sultan%20Khan&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20App%20and%20Web%20Architect&descAlignY=62&descSize=15"/>
+<img width="100%" height="220" style="object-fit:cover;border-radius:12px" src="https://media2.giphy.com/media/3oFzmrqRPhYnFg9oGs/giphy.gif"/>
+
+# Muhammad Sultan Khan
+### **Full-Stack Developer | AI Automation Engineer | App & Web Architect** ✨
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=800&color=6C63FF&center=true&vCenter=true&width=760&lines=%F0%9F%9A%80+Full-Stack+Web+%26+App+Developer;%F0%9F%8E%93+BS+Software+Engineering+%40+CUST;%F0%9F%A4%96+AI+Automation+%26+LLM+Integration+Developer;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%92%BC+Freelance+%26+Enterprise+Solutions+Builder"/>
 
 <br>
