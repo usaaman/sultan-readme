@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=6,11,20&text=Muhammad%20Sultan%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20App%20and%20Web%20Architect&descAlignY=80&descSize=14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&height=200&color=gradient&customColorList=6,11,20&text=Muhammad%20Sultan%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20App%20and%20Web%20Architect&descAlignY=75&descSize=14"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=800&color=6C63FF&center=true&vCenter=true&width=760&lines=%F0%9F%9A%80+Full-Stack+Web+%26+App+Developer;%F0%9F%8E%93+BS+Software+Engineering+%40+CUST;%F0%9F%A4%96+AI+Automation+%26+LLM+Integration+Developer;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%92%BC+Freelance+%26+Enterprise+Solutions+Builder"/>
 
 <br>
