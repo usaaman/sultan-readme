@@ -15,18 +15,7 @@
 
 ---
 
-# 👨‍💻 About Me
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-- 🎓 **BS Software Engineering** @ Capital University of Science and Technology (CUST)
-- 💼 **Full-Stack Web & App Developer**
-- 🤖 **AI Automation & LLM Integration Developer**
-- 🔐 **Cybersecurity Fundamentals Enthusiast**
-- 🚀 Passionate about building enterprise-grade, fully scalable applications
-- 🌍 Available for **Freelancing, Self-Employment & Collaboration**
-
-<br>
+x
 
 ### 💡 Currently Learning
 
